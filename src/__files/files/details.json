@@ -1,0 +1,42 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Ismael",
+        "last": "Roman"
+      },
+      "location": {
+        "street": {
+          "number": 457,
+          "name": "Avenida de Andalucía"
+        },
+        "city": "Alcobendas",
+        "state": "Comunidad de Madrid",
+        "country": "Spain",
+        "postcode": 86304
+      },
+      "email": "ismael.roman@example.com"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Francisco",
+        "last": "Wheeler"
+      },
+      "location": {
+        "street": {
+          "number": 9067,
+          "name": "Hickory Creek Dr"
+        },
+        "city": "Bozeman",
+        "state": "Connecticut",
+        "country": "United States",
+        "postcode": 44479
+      },
+      "email": "francisco.wheeler@example.com"
+    }
+  ]
+}
